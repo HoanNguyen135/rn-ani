@@ -1,7 +1,7 @@
 {
   "name": "rn-ani",
-  "version": "1.0.3",
-  "description": "A view animation story",
+  "version": "1.0.5",
+  "description": "rn-ani",
   "main": "index.js",
   "scripts": {
     "test": "yarn run test"
@@ -25,7 +25,8 @@
     "react-js-tag-audio":"1.0.0",
     "reactjs-audiotag":"1.0.1",
     "react-nn-animation": "*",
-    "rn-ani": "1.0.3"
+    "rn-ani": "1.0.3",
+    "test_ci_cd_react_native": "*"
   },
   "devDependencies": {
     "react": "17.0.2",
